@@ -25,10 +25,10 @@ function tdos() {
   two.src = "img/s10/2h.png";
 }
 function wpwc() {
-  two.src = "img/s10/3h.png";
+  three.src = "img/s10/3h.png";
 }
 function wpwcO() {
-  two.src = "img/s10/3.png";
+  three.src = "img/s10/3.png";
 }
 function doaneO() {
   four.src = "img/s10/4.png";
