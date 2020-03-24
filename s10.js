@@ -25,9 +25,9 @@ function tdos() {
   two.src = "img/s10/2h.png";
 }
 function doaneO() {
-  three.src = "img/s10/4.png";
+  four.src = "img/s10/4.png";
 }
 function doane() {
-  three.src = "img/s10/4h.png";
+  four.src = "img/s10/4h.png";
 }
 
