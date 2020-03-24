@@ -1,13 +1,13 @@
-var img = document.getElementById("36");
+var thirtysix = document.getElementById("36");
 
-img.addEventListener("mouseover",mouseOver);
-img.addEventListener("mouseout",mouseOut);
+thirtysix.addEventListener("mouseover",mouseOver);
+thirtysix.addEventListener("mouseout",mouseOut);
 
 
 function mouseOver() {
-  img.src = "img/s9/36h.png";
+  thirtysix.src = "img/s9/36h.png";
 }
 
 function mouseOut() {
-  img.src = "img/s9/36.png";
+  thirtysix.src = "img/s9/36.png";
 }
