@@ -1,2 +1,0 @@
-# newtv
-Created with CodeSandbox
