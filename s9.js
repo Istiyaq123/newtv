@@ -1,13 +1,13 @@
-var 36 = document.getElementById("36");
+var thirtysix = document.getElementById("36");
 
-36.addEventListener("mouseover",mouseOver);
-36.addEventListener("mouseout",mouseOut);
+thirtysix.addEventListener("mouseover",mouseOver);
+thirtysix.addEventListener("mouseout",mouseOut);
 
 
 function mouseOver() {
-  36.src = "https://pkk.netlify.com/img/s9/36h.png";
+  thirtysix.src = "https://pkk.netlify.com/img/s9/36h.png";
 }
 
 function mouseOut() {
-  36.src = "https://pkk.netlify.com/img/s9/36.png";
+  thirtysix.src = "https://pkk.netlify.com/img/s9/36.png";
 }
