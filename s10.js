@@ -21,6 +21,12 @@ function famvO() {
 function tdosO() {
   two.src = "img/s10/2.png";
 }
+function wpwc() {
+  two.src = "img/s10/3h.png";
+}
+function wpwcO() {
+  two.src = "img/s10/3.png";
+}
 function tdos() {
   two.src = "img/s10/2h.png";
 }
