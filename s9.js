@@ -5,9 +5,9 @@ img.addEventListener("mouseout",mouseOut);
 
 
 function mouseOver() {
-  img.src = "https://pkk.netlify.com/img/s9/36h.png";
+  img.src = "img/s9/36h.png";
 }
 
 function mouseOut() {
-  img.src = "https://pkk.netlify.com/img/s9/36.png";
+  img.src = "img/s9/36.png";
 }
