@@ -2,6 +2,8 @@ var one = document.getElementById("1");
 var two = document.getElementById("2");
 var three = document.getElementById("3");
 var four = document.getElementById("4");
+var five = document.getElementById("5");
+var six = document.getElementById("6");
 
 one.addEventListener("mouseover", famv);
 one.addEventListener("mouseout", famvO);
@@ -11,6 +13,10 @@ three.addEventListener("mouseover", wpwc);
 three.addEventListener("mouseout", wpwcO);
 four.addEventListener("mouseover", doane);
 four.addEventListener("mouseout", doaneO);
+five.addEventListener("mouseover", gtwit);
+five.addEventListener("mouseout", gtwitO);
+six.addEventListener("mouseover", dsfdb);
+six.addEventListener("mouseout", dsfdbO);
 
 function famv() {
   one.src = "img/s10/1h.png";
@@ -36,4 +42,15 @@ function doaneO() {
 function doane() {
   four.src = "img/s10/4h.png";
 }
-
+function gtwitO() {
+  four.src = "img/s10/5.png";
+}
+function gtwit() {
+  four.src = "img/s10/5h.png";
+}
+function dsfdbO() {
+  four.src = "img/s10/6.png";
+}
+function dsfdb() {
+  four.src = "img/s10/6h.png";
+}
