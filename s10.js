@@ -58,8 +58,8 @@ function dsfdb() {
   six.src = "img/s10/6h.png";
 }
 function lioliO() {
-  six.src = "img/s10/7.png";
+  seven.src = "img/s10/7.png";
 }
 function lioli() {
-  six.src = "img/s10/7h.png";
+  seven.src = "img/s10/7h.png";
 }
