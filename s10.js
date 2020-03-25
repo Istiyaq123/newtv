@@ -12,6 +12,10 @@ var eleven = document.getElementById("11");
 var twelve = document.getElementById("12");
 var thirteen = document.getElementById("13");
 var fourteen = document.getElementById("14");
+var fithteen = document.getElementById("15");
+var sixthteen = document.getElementById("16");
+var seventeen = document.getElementById("17");
+var eighteen = document.getElementById("18");
 
 one.addEventListener("mouseover", famv);
 one.addEventListener("mouseout", famvO);
@@ -41,6 +45,14 @@ thirteen.addEventListener("mouseover", AStaraviaIsBorn);
 thirteen.addEventListener("mouseout", AStaraviaIsBornO);
 fourteen.addEventListener("mouseover", LeaveItToBrocko);
 fourteen.addEventListener("mouseout", LeaveItToBrockoO);
+fithteen.addEventListener("mouseover", ShapesOfThingsToCome);
+fithteen.addEventListener("mouseout", ShapesOfThingsToComeO);
+sixthteen.addEventListener("mouseover", AGruffActToFollow);
+sixthteen.addEventListener("mouseout", AGruffActToFollowO);
+seventeen.addEventListener("mouseover", WildInTheStreets);
+seventeen.addEventListener("mouseout", WildInTheStreetsO);
+eighteen.addEventListener("mouseover", OErTheRampardosWeWatched);
+eighteen.addEventListener("mouseout", OErTheRampardosWeWatchedO);
 
 function famv() {
   one.src = "img/s10/1h.png";
@@ -125,4 +137,28 @@ function LeaveItToBrockoO() {
 }
 function LeaveItToBrocko() {
   fourteen.src = "img/s10/14h.png";
+}
+function ShapesOfThingsToComeO() {
+  fithteen.src = "img/s10/15.png";
+}
+function ShapesOfThingsToCome() {
+  fithteen.src = "img/s10/15h.png";
+}
+function AGruffActToFollowO() {
+  sixthteen.src = "img/s10/16.png";
+}
+function AGruffActToFollow() {
+  sixthteen.src = "img/s10/16h.png";
+}
+function WildInTheStreetsO() {
+  seventeen.src = "img/s10/17.png";
+}
+function WildInTheStreets() {
+  seventeen.src = "img/s10/17h.png";
+}
+function OErTheRampardosWeWatchedO() {
+  eighteen.src = "img/s10/18.png";
+}
+function OErTheRampardosWeWatched() {
+  eighteen.src = "img/s10/18h.png";
 }
