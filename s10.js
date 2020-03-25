@@ -74,147 +74,147 @@ function start(){
   twentyfour.addEventListener("mouseout", CookingUpASweetStoryO);
 
   function famv() {
-    one.src = "img/s10/1h.png";
+    one.src = "https://pkk.netlify.com/img/s10/1h.png";
   }
   function famvO() {
-    one.src = "img/s10/1.png";
+    one.src = "https://pkk.netlify.com/img/s10/1.png";
   }
   function tdosO() {
-    two.src = "img/s10/2.png";
+    two.src = "https://pkk.netlify.com/img/s10/2.png";
   }
   function tdos() {
-    two.src = "img/s10/2h.png";
+    two.src = "https://pkk.netlify.com/img/s10/2h.png";
   }
   function wpwc() {
-    three.src = "img/s10/3h.png";
+    three.src = "https://pkk.netlify.com/img/s10/3h.png";
   }
   function wpwcO() {
-    three.src = "img/s10/3.png";
+    three.src = "https://pkk.netlify.com/img/s10/3.png";
   }
   function doaneO() {
-    four.src = "img/s10/4.png";
+    four.src = "https://pkk.netlify.com/img/s10/4.png";
   }
   function doane() {
-    four.src = "img/s10/4h.png";
+    four.src = "https://pkk.netlify.com/img/s10/4h.png";
   }
   function gtwitO() {
-    five.src = "img/s10/5.png";
+    five.src = "https://pkk.netlify.com/img/s10/5.png";
   }
   function gtwit() {
-    five.src = "img/s10/5h.png";
+    five.src = "https://pkk.netlify.com/img/s10/5h.png";
   }
   function dsfdbO() {
-    six.src = "img/s10/6.png";
+    six.src = "https://pkk.netlify.com/img/s10/6.png";
   }
   function dsfdb() {
-    six.src = "img/s10/6h.png";
+    six.src = "https://pkk.netlify.com/img/s10/6h.png";
   }
   function lioliO() {
-    seven.src = "img/s10/7.png";
+    seven.src = "https://pkk.netlify.com/img/s10/7.png";
   }
   function lioli() {
-    seven.src = "img/s10/7h.png";
+    seven.src = "https://pkk.netlify.com/img/s10/7h.png";
   }
   function gO() {
-    eight.src = "img/s10/8.png";
+    eight.src = "https://pkk.netlify.com/img/s10/8.png";
   }
   function g() {
-    eight.src = "img/s10/8h.png";
+    eight.src = "https://pkk.netlify.com/img/s10/8h.png";
   }
   function stwoibO() {
-    nine.src = "img/s10/9.png";
+    nine.src = "https://pkk.netlify.com/img/s10/9.png";
   }
   function stwoib() {
-    nine.src = "img/s10/9h.png";
+    nine.src = "https://pkk.netlify.com/img/s10/9h.png";
   }
   function NotOnmyWatchYaDontO() {
-    ten.src = "img/s10/10.png";
+    ten.src = "https://pkk.netlify.com/img/s10/10.png";
   }
   function NotOnmyWatchYaDont() {
-    ten.src = "img/s10/10h.png";
+    ten.src = "https://pkk.netlify.com/img/s10/10h.png";
   }
   function MountingACoordinatorAssaultO() {
-    eleven.src = "img/s10/11.png";
+    eleven.src = "https://pkk.netlify.com/img/s10/11.png";
   }
   function MountingACoordinatorAssault() {
-    eleven.src = "img/s10/11h.png";
+    eleven.src = "https://pkk.netlify.com/img/s10/11h.png";
   }
   function ArrivalOfARivalO() {
-    twelve.src = "img/s10/12.png";
+    twelve.src = "https://pkk.netlify.com/img/s10/12.png";
   }
   function ArrivalOfARival() {
-    twelve.src = "img/s10/12h.png";
+    twelve.src = "https://pkk.netlify.com/img/s10/12h.png";
   }
   function AStaraviaIsBornO() {
-    thirteen.src = "img/s10/13.png";
+    thirteen.src = "https://pkk.netlify.com/img/s10/13.png";
   }
   function AStaraviaIsBorn() {
-    thirteen.src = "img/s10/13h.png";
+    thirteen.src = "https://pkk.netlify.com/img/s10/13h.png";
   }
   function LeaveItToBrockoO() {
-    fourteen.src = "img/s10/14.png";
+    fourteen.src = "https://pkk.netlify.com/img/s10/14.png";
   }
   function LeaveItToBrocko() {
-    fourteen.src = "img/s10/14h.png";
+    fourteen.src = "https://pkk.netlify.com/img/s10/14h.png";
   }
   function ShapesOfThingsToComeO() {
-    fithteen.src = "img/s10/15.png";
+    fithteen.src = "https://pkk.netlify.com/img/s10/15.png";
   }
   function ShapesOfThingsToCome() {
-    fithteen.src = "img/s10/15h.png";
+    fithteen.src = "https://pkk.netlify.com/img/s10/15h.png";
   }
   function AGruffActToFollowO() {
-    sixthteen.src = "img/s10/16.png";
+    sixthteen.src = "https://pkk.netlify.com/img/s10/16.png";
   }
   function AGruffActToFollow() {
-    sixthteen.src = "img/s10/16h.png";
+    sixthteen.src = "https://pkk.netlify.com/img/s10/16h.png";
   }
   function WildInTheStreetsO() {
-    seventeen.src = "img/s10/17.png";
+    seventeen.src = "https://pkk.netlify.com/img/s10/17.png";
   }
   function WildInTheStreets() {
-    seventeen.src = "img/s10/17h.png";
+    seventeen.src = "https://pkk.netlify.com/img/s10/17h.png";
   }
   function OErTheRampardosWeWatchedO() {
-    eighteen.src = "img/s10/18.png";
+    eighteen.src = "https://pkk.netlify.com/img/s10/18.png";
   }
   function OErTheRampardosWeWatched() {
-    eighteen.src = "img/s10/18h.png";
+    eighteen.src = "https://pkk.netlify.com/img/s10/18h.png";
   }
   function TwiceSmittenOnceShyO() {
-    nineteen.src = "img/s10/19.png";
+    nineteen.src = "https://pkk.netlify.com/img/s10/19.png";
   }
   function TwiceSmittenOnceShy() {
-    nineteen.src = "img/s10/19h.png";
+    nineteen.src = "https://pkk.netlify.com/img/s10/19h.png";
   }
   function MutinyInTheBountyO() {
-    twenty.src = "img/s10/20.png";
+    twenty.src = "https://pkk.netlify.com/img/s10/20.png";
   }
   function MutinyInTheBounty() {
-    twenty.src = "img/s10/20h.png";
+    twenty.src = "https://pkk.netlify.com/img/s10/20h.png";
   }
   function YaSeeWeWantAnEvolutionO() {
     twentyone.src = "img/s10/21.png";
   }
   function YaSeeWeWantAnEvolution() {
-    twentyone.src = "img/s10/21h.png";
+    twentyone.src = "https://pkk.netlify.com/img/s10/21h.png";
   }
   function BorrowingOnBadFaithO() {
-    twentytwo.src = "img/s10/22.png";
+    twentytwo.src = "https://pkk.netlify.com/img/s10/22.png";
   }
   function BorrowingOnBadFaith() {
-    twentytwo.src = "img/s10/22h.png";
+    twentytwo.src = "https://pkk.netlify.com/img/s10/22h.png";
   }
   function FacedWithSteelixDeterminationO() {
-    twentythree.src = "img/s10/23.png";
+    twentythree.src = "https://pkk.netlify.com/img/s10/23.png";
   }
   function FacedWithSteelixDetermination() {
-    twentythree.src = "img/s10/23h.png";
+    twentythree.src = "https://pkk.netlify.com/img/s10/23h.png";
   }
   function CookingUpASweetStoryO() {
-    twentyfour.src = "img/s10/24.png";
+    twentyfour.src = "https://pkk.netlify.com/img/s10/24.png";
   }
   function CookingUpASweetStory() {
-    twentyfour.src = "img/s10/24h.png";
+    twentyfour.src = "https://pkk.netlify.com/img/s10/24h.png";
   }
 }
