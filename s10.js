@@ -86,9 +86,9 @@ function stwoibO() {
 function stwoib() {
   nine.src = "img/s10/9h.png";
 }
-function stwoibO() {
+function NotOnmyWatchYaDontO() {
   ten.src = "img/s10/10.png";
 }
-function stwoib() {
+function NotOnmyWatchYaDont() {
   ten.src = "img/s10/10h.png";
 }
