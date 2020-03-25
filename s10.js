@@ -31,6 +31,10 @@ nine.addEventListener("mouseover", stwoib);
 nine.addEventListener("mouseout", stwoibO);
 ten.addEventListener("mouseover", NotOnmyWatchYaDont);
 ten.addEventListener("mouseout", NotOnmyWatchYaDontO);
+eleven.addEventListener("mouseover", MountingACoordinatorAssault);
+eleven.addEventListener("mouseout", MountingACoordinatorAssaultO);
+twelve.addEventListener("mouseover", ArrivalOfARival);
+twelve.addEventListener("mouseout", ArrivalOfARivalO);
 
 function famv() {
   one.src = "img/s10/1h.png";
@@ -91,4 +95,16 @@ function NotOnmyWatchYaDontO() {
 }
 function NotOnmyWatchYaDont() {
   ten.src = "img/s10/10h.png";
+}
+function MountingACoordinatorAssaultO() {
+  eleven.src = "img/s10/11.png";
+}
+function MountingACoordinatorAssault() {
+  eleven.src = "img/s10/11h.png";
+}
+function ArrivalOfARivalO() {
+  twelve.src = "img/s10/12.png";
+}
+function ArrivalOfARival() {
+  twelve.src = "img/s10/12h.png";
 }
