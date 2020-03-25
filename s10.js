@@ -43,14 +43,14 @@ function doane() {
   four.src = "img/s10/4h.png";
 }
 function gtwitO() {
-  four.src = "img/s10/5.png";
+  five.src = "img/s10/5.png";
 }
 function gtwit() {
-  four.src = "img/s10/5h.png";
+  five.src = "img/s10/5h.png";
 }
 function dsfdbO() {
-  four.src = "img/s10/6.png";
+  six.src = "img/s10/6.png";
 }
 function dsfdb() {
-  four.src = "img/s10/6h.png";
+  six.src = "img/s10/6h.png";
 }
