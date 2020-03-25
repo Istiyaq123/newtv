@@ -10,6 +10,7 @@ var nine = document.getElementById("9");
 var ten = document.getElementById("10");
 var eleven = document.getElementById("11");
 var twelve = document.getElementById("12");
+var thirteen = document.getElementById("13");
 
 one.addEventListener("mouseover", famv);
 one.addEventListener("mouseout", famvO);
@@ -35,6 +36,8 @@ eleven.addEventListener("mouseover", MountingACoordinatorAssault);
 eleven.addEventListener("mouseout", MountingACoordinatorAssaultO);
 twelve.addEventListener("mouseover", ArrivalOfARival);
 twelve.addEventListener("mouseout", ArrivalOfARivalO);
+thirteen.addEventListener("mouseover", AStaraviaIsBorn);
+thirteen.addEventListener("mouseout", AStaraviaIsBornO);
 
 function famv() {
   one.src = "img/s10/1h.png";
@@ -107,4 +110,10 @@ function ArrivalOfARivalO() {
 }
 function ArrivalOfARival() {
   twelve.src = "img/s10/12h.png";
+}
+function AStaraviaIsBornO() {
+  thirteen.src = "img/s10/13.png";
+}
+function AStaraviaIsBorn() {
+  thirteen.src = "img/s10/13h.png";
 }
