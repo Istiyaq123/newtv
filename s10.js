@@ -67,8 +67,8 @@ function lioli() {
   seven.src = "img/s10/7h.png";
 }
 function gO() {
-  seven.src = "img/s10/8.png";
+  eight.src = "img/s10/8.png";
 }
 function g() {
-  seven.src = "img/s10/8h.png";
+  eight.src = "img/s10/8h.png";
 }
