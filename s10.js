@@ -5,6 +5,7 @@ var four = document.getElementById("4");
 var five = document.getElementById("5");
 var six = document.getElementById("6");
 var seven = document.getElementById("7");
+var eight = document.getElementById("8");
 
 one.addEventListener("mouseover", famv);
 one.addEventListener("mouseout", famvO);
@@ -20,6 +21,8 @@ six.addEventListener("mouseover", dsfdb);
 six.addEventListener("mouseout", dsfdbO);
 seven.addEventListener("mouseover", lioli);
 seven.addEventListener("mouseout", lioliO);
+eight.addEventListener("mouseover", g);
+eight.addEventListener("mouseout", gO);
 
 function famv() {
   one.src = "img/s10/1h.png";
@@ -62,4 +65,10 @@ function lioliO() {
 }
 function lioli() {
   seven.src = "img/s10/7h.png";
+}
+function gO() {
+  seven.src = "img/s10/8.png";
+}
+function g() {
+  seven.src = "img/s10/8h.png";
 }
