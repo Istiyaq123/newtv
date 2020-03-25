@@ -68,6 +68,10 @@ function start(){
   twentyone.addEventListener("mouseout", YaSeeWeWantAnEvolutionO);
   twentytwo.addEventListener("mouseover", BorrowingOnBadFaith);
   twentytwo.addEventListener("mouseout", BorrowingOnBadFaithO);
+  twentythree.addEventListener("mouseover", FacedWithSteelixDetermination);
+  twentythree.addEventListener("mouseout", FacedWithSteelixDeterminationO);
+  twentyfour.addEventListener("mouseover", CookingUpASweetStory);
+  twentyfour.addEventListener("mouseout", CookingUpASweetStoryO);
 
   function famv() {
     one.src = "img/s10/1h.png";
@@ -196,9 +200,21 @@ function start(){
     twentyone.src = "img/s10/21h.png";
   }
   function BorrowingOnBadFaithO() {
-    twentytwo.src = "img/s10/21.png";
+    twentytwo.src = "img/s10/22.png";
   }
   function BorrowingOnBadFaith() {
-    twentytwo.src = "img/s10/21h.png";
+    twentytwo.src = "img/s10/22h.png";
+  }
+  function FacedWithSteelixDeterminationO() {
+    twentythree.src = "img/s10/23.png";
+  }
+  function FacedWithSteelixDetermination() {
+    twentythree.src = "img/s10/23h.png";
+  }
+  function CookingUpASweetStoryO() {
+    twentyfour.src = "img/s10/24.png";
+  }
+  function CookingUpASweetStory() {
+    twentyfour.src = "img/s10/24h.png";
   }
 }
