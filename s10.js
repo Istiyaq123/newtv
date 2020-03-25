@@ -194,7 +194,7 @@ function start(){
     twenty.src = "https://pkk.netlify.com/img/s10/20h.png";
   }
   function YaSeeWeWantAnEvolutionO() {
-    twentyone.src = "img/s10/21.png";
+    twentyone.src = "https://pkk.netlify.com/img/s10/21.png";
   }
   function YaSeeWeWantAnEvolution() {
     twentyone.src = "https://pkk.netlify.com/img/s10/21h.png";
