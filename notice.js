@@ -5,3 +5,5 @@ notice.innerHTML = "<strong>&copy2020 Pok&eacute;mon / &copy The Pok&eacute;mon 
 if (screen.width <= 699) {
 	location.replace("https://watchpokemontv.netlify.com/");
 }
+
+console.log("Istiyaq made this")
