@@ -87,8 +87,8 @@ function stwoib() {
   nine.src = "img/s10/9h.png";
 }
 function stwoibO() {
-  nine.src = "img/s10/10.png";
+  ten.src = "img/s10/10.png";
 }
 function stwoib() {
-  nine.src = "img/s10/10h.png";
+  ten.src = "img/s10/10h.png";
 }
