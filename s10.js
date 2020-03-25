@@ -11,6 +11,7 @@ var ten = document.getElementById("10");
 var eleven = document.getElementById("11");
 var twelve = document.getElementById("12");
 var thirteen = document.getElementById("13");
+var fourteen = document.getElementById("14");
 
 one.addEventListener("mouseover", famv);
 one.addEventListener("mouseout", famvO);
@@ -38,6 +39,8 @@ twelve.addEventListener("mouseover", ArrivalOfARival);
 twelve.addEventListener("mouseout", ArrivalOfARivalO);
 thirteen.addEventListener("mouseover", AStaraviaIsBorn);
 thirteen.addEventListener("mouseout", AStaraviaIsBornO);
+fourteen.addEventListener("mouseover", LeaveItToBrocko);
+fourteen.addEventListener("mouseout", LeaveItToBrockoO);
 
 function famv() {
   one.src = "img/s10/1h.png";
@@ -116,4 +119,10 @@ function AStaraviaIsBornO() {
 }
 function AStaraviaIsBorn() {
   thirteen.src = "img/s10/13h.png";
+}
+function LeaveItToBrockoO() {
+  fourteen.src = "img/s10/14.png";
+}
+function LeaveItToBrocko() {
+  fourteen.src = "img/s10/14h.png";
 }
