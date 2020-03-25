@@ -6,6 +6,10 @@ var five = document.getElementById("5");
 var six = document.getElementById("6");
 var seven = document.getElementById("7");
 var eight = document.getElementById("8");
+var nine = document.getElementById("9");
+var ten = document.getElementById("10");
+var eleven = document.getElementById("11");
+var twelve = document.getElementById("12");
 
 one.addEventListener("mouseover", famv);
 one.addEventListener("mouseout", famvO);
@@ -23,6 +27,10 @@ seven.addEventListener("mouseover", lioli);
 seven.addEventListener("mouseout", lioliO);
 eight.addEventListener("mouseover", g);
 eight.addEventListener("mouseout", gO);
+nine.addEventListener("mouseover", stwoib);
+nine.addEventListener("mouseout", stwoibO);
+ten.addEventListener("mouseover", NotOnmyWatchYaDont);
+ten.addEventListener("mouseout", NotOnmyWatchYaDontO);
 
 function famv() {
   one.src = "img/s10/1h.png";
@@ -71,4 +79,16 @@ function gO() {
 }
 function g() {
   eight.src = "img/s10/8h.png";
+}
+function stwoibO() {
+  nine.src = "img/s10/9.png";
+}
+function stwoib() {
+  nine.src = "img/s10/9h.png";
+}
+function stwoibO() {
+  nine.src = "img/s10/10.png";
+}
+function stwoib() {
+  nine.src = "img/s10/10h.png";
 }
