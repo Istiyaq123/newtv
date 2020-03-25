@@ -17,6 +17,12 @@ function start(){
   var sixthteen = document.getElementById("16");
   var seventeen = document.getElementById("17");
   var eighteen = document.getElementById("18");
+  var nineteen = document.getElementById("19");
+  var twenty = document.getElementById("20");
+  var twentyone = document.getElementById("21");
+  var twentytwo = document.getElementById("22");
+  var twentythree = document.getElementById("23");
+  var twentyfour = document.getElementById("24");
 
   one.addEventListener("mouseover", famv);
   one.addEventListener("mouseout", famvO);
@@ -54,6 +60,14 @@ function start(){
   seventeen.addEventListener("mouseout", WildInTheStreetsO);
   eighteen.addEventListener("mouseover", OErTheRampardosWeWatched);
   eighteen.addEventListener("mouseout", OErTheRampardosWeWatchedO);
+  nineteen.addEventListener("mouseover", TwiceSmittenOnceShy);
+  nineteen.addEventListener("mouseout", TwiceSmittenOnceShyO);
+  twenty.addEventListener("mouseover", MutinyInTheBounty);
+  twenty.addEventListener("mouseout", MutinyInTheBountyO);
+  twentyone.addEventListener("mouseover", YaSeeWeWantAnEvolution);
+  twentyone.addEventListener("mouseout", YaSeeWeWantAnEvolutionO);
+  twentytwo.addEventListener("mouseover", BorrowingOnBadFaith);
+  twentytwo.addEventListener("mouseout", BorrowingOnBadFaithO);
 
   function famv() {
     one.src = "img/s10/1h.png";
@@ -162,5 +176,29 @@ function start(){
   }
   function OErTheRampardosWeWatched() {
     eighteen.src = "img/s10/18h.png";
+  }
+  function TwiceSmittenOnceShyO() {
+    nineteen.src = "img/s10/19.png";
+  }
+  function TwiceSmittenOnceShy() {
+    nineteen.src = "img/s10/19h.png";
+  }
+  function MutinyInTheBountyO() {
+    twenty.src = "img/s10/20.png";
+  }
+  function MutinyInTheBounty() {
+    twenty.src = "img/s10/20h.png";
+  }
+  function YaSeeWeWantAnEvolutionO() {
+    twentyone.src = "img/s10/21.png";
+  }
+  function YaSeeWeWantAnEvolution() {
+    twentyone.src = "img/s10/21h.png";
+  }
+  function BorrowingOnBadFaithO() {
+    twentytwo.src = "img/s10/21.png";
+  }
+  function BorrowingOnBadFaith() {
+    twentytwo.src = "img/s10/21h.png";
   }
 }
